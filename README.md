@@ -22,6 +22,6 @@ $ npm run test
 ## API DOCs
 
 ```
- Once the server starts, you can visit the address below to see the swagger docs
+ Once the server starts, kindly visit the address below to see the API docs
 * [SwaggerDOCs](http://localhost:5000/api-docs/)
 ```
