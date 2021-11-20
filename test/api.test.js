@@ -1,9 +1,9 @@
 const request = require('supertest');
 const app = require('../index');
-let rndNum = Math.floor(10000 + Math.random() * 900000);
 
 let show_ID = 101;
 let item_ID =  1231
+
 describe('API Routes Test', function(){
 	it('should create or update inventory', async () => {
 	    const res = await request(app)

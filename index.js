@@ -16,7 +16,7 @@ app.use(express.json());
 // swagger configuration
 const swaggerDefinition = {
   info: {
-    title: 'Stackoverflow Clone Swagger API',
+    title: 'Mini Item Store API',
     version: '1.0.0',
     description: 'Endpoints to test the routes',
   },
